@@ -14,4 +14,4 @@ Start the development server
 npm run dev
 ```
 
-Preview: https://subhayudas3dportfolio.netlify.app/
+Preview: https://subhayu3dportfolio.netlify.app/

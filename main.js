@@ -27,6 +27,12 @@ let clipNames = [
   'fan_rotation.004',
 ];
 let projects = [
+
+  {
+    image: 'textures/project-notibit.jpg',
+    url: 'https://notibit.pages.dev/',
+  },
+
   {
     image: 'textures/project-niggamon.png',
     url: 'https://subhayudas.github.io/study_material/',
